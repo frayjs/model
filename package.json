@@ -1,7 +1,7 @@
 {
   "name": "fray.model",
   "description": "Persistent data structures",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "main": "src/model.js",
   "devDependencies": {
     "gulp": "^3.9.1",
@@ -12,7 +12,7 @@
   "scripts": {
     "setup": "npm install",
     "upgrade": "npm update",
-    "test":"gulp test",
+    "test": "gulp test",
     "precommit": "npm test",
     "patch": "mversion patch -mn",
     "minor": "mversion minor -mn",
