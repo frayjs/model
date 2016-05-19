@@ -1,7 +1,7 @@
 {
   "name": "fray.model",
   "description": "Persistent data structures",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "main": "src/model.js",
   "devDependencies": {
     "gulp": "^3.9.1",
